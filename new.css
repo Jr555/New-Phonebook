@@ -1,0 +1,11 @@
+form {
+	margin-top: -0px;
+}
+body {
+  font-size: 120%;
+  background: url(back.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center; 
+  height: 400px;
+}
